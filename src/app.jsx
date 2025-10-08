@@ -1,4 +1,4 @@
-import { Books } from "./components/books";
+import { Books } from "./components/Books";
 import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 
